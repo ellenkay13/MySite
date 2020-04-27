@@ -1,0 +1,26 @@
+body {
+    font-family: Helvetica;
+    
+}
+h1 {
+    background-image: url("images/beige-concrete-buildings-on-high-ground-2087392.jpg");
+    background-position: center;
+    background-size: cover;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.65);
+    font-size: 60px;
+}
+body p {
+    width: 800px;
+    margin: 0 auto;
+    font-size: 14px;
+}
+footer {
+    color: #000000;
+    text-align: center;
+    margin-top: 40px;
+    padding: 15px;
+    font-size: .65rem;
+}

@@ -1,0 +1,56 @@
+body {
+    font-family: Helvetica;
+}
+
+header {
+    background-color: rgba(85, 107, 47, 0.81);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+}
+a {
+    text-decoration: none;
+}
+a:visited {
+    color: #000000;
+}
+nav li {
+    color: #000000;
+    font-size: 16px;
+    font-weight: bold;
+    display: inline-block;
+    width: 80px; 
+    border: 1px solid #e7e7e7;
+    background-color: #d3d3d3;
+    text-align: center;  
+}
+nav li:hover {
+    background-color: darkgray;
+}
+.heading h1 {
+    color: #ffffff;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.65);
+    background-image: url("images/green-pine-trees-1179229.jpg");
+    background-size: cover;
+    text-align: center;
+    font-size: 65px;
+    font-weight: 800;
+    position: relative;
+    top: 10px;
+    width: 100%;
+}
+main {
+    position: relative;
+    top: 40px;
+}
+main img{
+    display: inline-block;
+    height: 400px;
+    width: 300px;
+}
+#comments {
+    position: relative;
+    left: 400px;
+}
+
